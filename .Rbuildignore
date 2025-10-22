@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^LICENSE\.md$
+^00check.log$
+^CVNtest_1.1.0.tar.gz$
+^README.md$
